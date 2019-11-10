@@ -1,4 +1,5 @@
 ## Dynamic Programming
+> Those who cannot remember the past are condemned to repeat it. <br> - George Santayana
 
 is an algorithmic technique which is usually based on a recurrent formula and one (or some) starting states. A sub-solution of the problem is constructed from previously found ones.
  
