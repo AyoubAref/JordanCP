@@ -31,7 +31,7 @@ int main() {
 
 #### Practice Problems:
 
-Write here list of problem to practice on
+Write here list of problem to practice on and their levels and some hints.
 
 Problem 1: [https://codeforces.com/problemset/problem/25/D]
 
